@@ -1884,6 +1884,10 @@
 (^|\.)uluai\.com\.cn$
 (^|\.)yda\.gov\.tw$
 
+#Badminton 相关
+(^|\.)badmintoncn\.com$
+(^|\.)tournamentsoftware\.com$
+
 #**********************************************************************
 # 本地/局域网地址
 ^(.*\.)?local$
